@@ -1,1 +1,3 @@
 # Dev-playground tesst
+https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-synthesis
+https://cvoiceprodwus2.blob.core.windows.net/batch-synthesis-output/933df772-60fc-444f-8750-129bd2947895/0001.webm?skoid=85130dbe-2390-4897-a9e9-5c88bb59daff&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skt=2024-02-05T20%3A48%3A29Z&ske=2024-02-11T20%3A53%3A29Z&sks=b&skv=2023-11-03&sv=2023-11-03&st=2024-02-05T20%3A48%3A29Z&se=2024-02-06T20%3A53%3A29Z&sr=b&sp=rl&sig=S5yTq94vUziIwQoYCyT8eBfOwQko%2F55FvIEjpMzTSZ8%3D   
